@@ -1,0 +1,10 @@
+node_modules/
+.pnpm-store/
+dist/
+tmp/
+*.tsbuildinfo
+.env
+.env.*
+!.env.example
+**/public/videos/*.mp4
+media resume/

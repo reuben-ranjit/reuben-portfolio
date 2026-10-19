@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" role="img" aria-label="Designed typographic poster for the Gokarna client edit; not a frame from the film">
+  <defs><linearGradient id="a" x2="0" y2="1"><stop stop-color="#3a2a24"/><stop offset=".57" stop-color="#25201c"/><stop offset=".58" stop-color="#1c2525"/><stop offset="1" stop-color="#111817"/></linearGradient></defs>
+  <path fill="url(#a)" d="M0 0h1600v900H0z"/><path d="M0 630c260-58 470 48 760-6s534-65 840-3v279H0z" fill="#172222"/><path d="M0 655c300-32 512 46 770 4s514-47 830-10" fill="none" stroke="#b87950" stroke-opacity=".4" stroke-width="3"/>
+  <text x="140" y="280" fill="#f25424" font-family="monospace" font-size="28" letter-spacing="8">CLIENT COLLABORATION · TRAVEL EDIT</text>
+  <text x="132" y="575" fill="#f1eee8" font-family="Arial,sans-serif" font-size="196" font-weight="700" letter-spacing="-14">GOKARNA</text>
+  <path d="M140 650h1280" stroke="#f1eee8" stroke-opacity=".4"/>
+  <text x="140" y="710" fill="#d3ccc1" font-family="monospace" font-size="24" letter-spacing="5">AN IMMERSIVE TRIP, IN MOTION</text>
+</svg>

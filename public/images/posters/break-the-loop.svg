@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" role="img" aria-label="Designed typographic poster for Break the Loop; not a frame from the film">
+  <defs><radialGradient id="a" cx="76%" cy="18%" r="82%"><stop stop-color="#39281f"/><stop offset=".58" stop-color="#211b17"/><stop offset="1" stop-color="#11110f"/></radialGradient><pattern id="b" width="42" height="42" patternUnits="userSpaceOnUse"><path d="M0 42 42 0" stroke="#f1eee8" stroke-opacity=".035"/></pattern></defs>
+  <path fill="url(#a)" d="M0 0h1600v900H0z"/><path fill="url(#b)" d="M0 0h1600v900H0z"/>
+  <path d="M140 690h1320" stroke="#f25424" stroke-opacity=".8"/>
+  <text x="140" y="285" fill="#f25424" font-family="monospace" font-size="28" letter-spacing="8">MAGNOVITE · INTERCOLLEGE EVENT</text>
+  <text x="132" y="570" fill="#f1eee8" font-family="Arial,sans-serif" font-size="184" font-weight="700" letter-spacing="-12">BREAK</text>
+  <text x="132" y="725" fill="#f1eee8" font-family="Arial,sans-serif" font-size="184" font-weight="700" letter-spacing="-12">THE LOOP</text>
+</svg>

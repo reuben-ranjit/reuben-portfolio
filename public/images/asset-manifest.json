@@ -1,0 +1,291 @@
+{
+  "source": "https://drive.google.com/drive/folders/1ta55B2ubka_iqeYrFRBNLtsB3ds74oVy?usp=sharing",
+  "discovered": {
+    "folders": 0,
+    "fileEntries": 21,
+    "images": 16,
+    "videos": 5
+  },
+  "downloaded": {
+    "imageEntries": 16,
+    "videoEntries": 7,
+    "distinctFiles": 22
+  },
+  "usedInWebsite": {
+    "images": 19,
+    "videos": 4
+  },
+  "assets": [
+    {
+      "originalFilename": "_MG_1770.jpg",
+      "sourceFileId": "1TOdSk9weT0LxIIFWjdrB8A2WA09SAvsy",
+      "sourceLocalPath": "assets/originals/drive/_MG_1770.jpg",
+      "localPath": "/images/originals/_MG_1770.jpg",
+      "usage": "Photography section gallery; opened in accessible lightbox; full-resolution source is used directly in the gallery and lightbox; the previous WebP derivative is retained but not used by the gallery",
+      "previewPath": "/images/projects/event-crowd.webp"
+    },
+    {
+      "originalFilename": "_MG_1917.jpeg",
+      "sourceFileId": "14JPuBonUuGM37L411Ma_UgMVzRX1xujF",
+      "sourceLocalPath": "assets/originals/drive/_MG_1917.jpeg",
+      "localPath": "/images/originals/_MG_1917.jpg",
+      "usage": "Photography section gallery; opened in accessible lightbox; full-resolution source is used directly in the gallery and lightbox; the previous WebP derivative is retained but not used by the gallery",
+      "previewPath": "/images/projects/field-crowd.webp"
+    },
+    {
+      "originalFilename": "_MG_3411_Original.jpg",
+      "sourceFileId": "1Vf639t7-ADmjnh1MaKrEaqHAlXLqHmHt",
+      "sourceLocalPath": "assets/originals/drive/_MG_3411_Original.jpg",
+      "localPath": "/images/originals/_MG_3411_Original.jpg",
+      "usage": "Photography section gallery; opened in accessible lightbox; full-resolution source is used directly in the gallery and lightbox; the previous WebP derivative is retained but not used by the gallery",
+      "previewPath": "/images/projects/team-performance.webp"
+    },
+    {
+      "originalFilename": "_MG_3425_Original.jpg",
+      "sourceFileId": "1xfSjDlKlUk2tJUIrOiDuKp5z0Y_CfdpH",
+      "sourceLocalPath": "assets/originals/drive/_MG_3425_Original.jpg",
+      "localPath": "/images/originals/_MG_3425_Original.jpg",
+      "usage": "Photography section gallery; opened in accessible lightbox; full-resolution source is used directly in the gallery and lightbox; the previous WebP derivative is retained but not used by the gallery",
+      "previewPath": "/images/projects/team-audience.webp"
+    },
+    {
+      "originalFilename": "8fa5b65e-e7eb-4768-9756-413a2740b24d.jpg",
+      "sourceFileId": "1YLF7Fj0qICwu3Nzxu9BP8BOgwuSw0Ol9",
+      "sourceLocalPath": "assets/originals/drive/8fa5b65e-e7eb-4768-9756-413a2740b24d.jpg",
+      "localPath": "/images/originals/garden-light.jpg",
+      "usage": "Photography section gallery; opened in accessible lightbox; full-resolution source is used directly in the gallery and lightbox; the previous WebP derivative is retained but not used by the gallery",
+      "previewPath": "/images/projects/garden-light.webp"
+    },
+    {
+      "originalFilename": "1000037696.jpg",
+      "sourceFileId": "1IBPCEtQeqNwkbEvV6j_Pek71fmUH1kDU",
+      "sourceLocalPath": "assets/originals/drive/1000037696.jpg",
+      "localPath": "/images/originals/waterfront.jpg",
+      "usage": "Photography section gallery; opened in accessible lightbox; full-resolution source is used directly in the gallery and lightbox; the previous WebP derivative is retained but not used by the gallery",
+      "previewPath": "/images/projects/waterfront.webp"
+    },
+    {
+      "originalFilename": "1000040010.jpg",
+      "sourceFileId": "1LnbqZhBe8piUrpXOmF-yd_udAJ_D7fOF",
+      "sourceLocalPath": "assets/originals/drive/1000040010.jpg",
+      "localPath": "/images/originals/event-smoke.jpg",
+      "usage": "Photography section gallery; opened in accessible lightbox; full-resolution source is used directly in the gallery and lightbox; the previous WebP derivative is retained but not used by the gallery",
+      "previewPath": "/images/projects/event-smoke.webp"
+    },
+    {
+      "originalFilename": "ccdr 2025-12-25 194804.758.jpg",
+      "sourceFileId": "1k-XKTlWa9bgcfWOvYGjvH6EEGBoAi2GO",
+      "sourceLocalPath": "assets/originals/drive/ccdr 2025-12-25 194804.758.jpg",
+      "localPath": "/images/originals/night-lights.jpg",
+      "usage": "Photography section gallery; opened in accessible lightbox; full-resolution source is used directly in the gallery and lightbox; the previous WebP derivative is retained but not used by the gallery",
+      "previewPath": "/images/projects/night-lights.webp"
+    },
+    {
+      "originalFilename": "IMG_2791.jpg",
+      "sourceFileId": "1BkkVjOQJfx7Ov_fe9HOnIB4r0JtjOna7",
+      "sourceLocalPath": "assets/originals/drive/IMG_2791.jpg",
+      "localPath": "/images/originals/evening-trees.jpg",
+      "usage": "Photography section gallery; opened in accessible lightbox; full-resolution source is used directly in the gallery and lightbox; the previous WebP derivative is retained but not used by the gallery",
+      "previewPath": "/images/projects/evening-trees.webp"
+    },
+    {
+      "originalFilename": "IMG_3190.jpg",
+      "sourceFileId": "1kxr8W-JalaqXC4QO5cp5OvtoGDleW5nf",
+      "sourceLocalPath": "assets/originals/drive/IMG_3190.jpg",
+      "localPath": "/images/originals/grazing-cattle.jpg",
+      "usage": "Photography section gallery; opened in accessible lightbox; full-resolution source is used directly in the gallery and lightbox; the previous WebP derivative is retained but not used by the gallery",
+      "previewPath": "/images/projects/grazing-cattle.webp"
+    },
+    {
+      "originalFilename": "IMG_3963.JPG",
+      "sourceFileId": "1wFR1Kam18NCKID8QohxZ-dJkVT4y-XEf",
+      "sourceLocalPath": "assets/originals/drive/IMG_3963.JPG",
+      "localPath": "/images/originals/event-arrival.jpg",
+      "usage": "Photography section gallery; opened in accessible lightbox; full-resolution source is used directly in the gallery and lightbox; the previous WebP derivative is retained but not used by the gallery",
+      "previewPath": "/images/projects/event-arrival.webp"
+    },
+    {
+      "originalFilename": "IMG_3981.HEIC",
+      "sourceFileId": "1v_QSxuuSOzLlt4bgzWuUuVPvJi87EmUB",
+      "sourceLocalPath": "assets/originals/drive/IMG_3981.HEIC",
+      "localPath": "/images/originals/heic-3981.png",
+      "usage": "Standalone Travel-category photograph in the Photography gallery; not associated with the Gokarna video project; full-resolution source is used directly in the gallery and lightbox; the previous WebP derivative is retained but not used by the gallery",
+      "previewPath": "/images/projects/heic-3981.webp"
+    },
+    {
+      "originalFilename": "IMG_4507.HEIC",
+      "sourceFileId": "1wOFCWUc3iblODTrJjrjrKuPfgBroKfxs",
+      "sourceLocalPath": "assets/originals/drive/IMG_4507.HEIC",
+      "localPath": "/images/originals/heic-4507.png",
+      "usage": "Photography section gallery; opened in accessible lightbox; full-resolution source is used directly in the gallery and lightbox; the previous WebP derivative is retained but not used by the gallery",
+      "previewPath": "/images/projects/heic-4507.webp"
+    },
+    {
+      "originalFilename": "IMG_8384.jpeg",
+      "sourceFileId": "1CJWIocJAdzs4oPH1M9PL5Wbc6SqcauOX",
+      "sourceLocalPath": "assets/originals/drive/IMG_8384.jpeg",
+      "localPath": "/images/originals/stage-audience.jpg",
+      "usage": "Photography section gallery; opened in accessible lightbox; full-resolution source is used directly in the gallery and lightbox; the previous WebP derivative is retained but not used by the gallery",
+      "previewPath": "/images/projects/stage-audience.webp"
+    },
+    {
+      "originalFilename": "IMG_8400.jpeg",
+      "sourceFileId": "11VVKl291UYe0bYzDxnFGUkT4pIe5ztNm",
+      "sourceLocalPath": "assets/originals/drive/IMG_8400.jpeg",
+      "localPath": "/images/originals/live-performance.jpg",
+      "usage": "Photography section gallery; opened in accessible lightbox; full-resolution source is used directly in the gallery and lightbox; the previous WebP derivative is retained but not used by the gallery",
+      "previewPath": "/images/projects/live-performance.webp"
+    },
+    {
+      "originalFilename": "IMG_8405.jpeg",
+      "sourceFileId": "1kNF1-uG9TZ_fqEh0SUh_KGePN8AYwkLM",
+      "sourceLocalPath": "assets/originals/drive/IMG_8405.jpeg",
+      "localPath": "/images/originals/stage-performer.jpg",
+      "usage": "Photography section gallery; opened in accessible lightbox; full-resolution source is used directly in the gallery and lightbox; the previous WebP derivative is retained but not used by the gallery",
+      "previewPath": "/images/projects/stage-performer.webp"
+    },
+    {
+      "originalFilename": "codex-clipboard-74e260ad-79df-4aee-95fc-69c9c5d2387b.png",
+      "source": "User-uploaded image attachment; city photo cropped from collage",
+      "sourceLocalPath": "assets/originals/uploads/city-and-seaside-collage.png",
+      "localPath": "/images/originals/city-traffic-lights.png",
+      "usage": "Photography gallery — Travel; city traffic lights at night; separate crop from supplied collage; full-resolution source is used directly in the gallery and lightbox; the previous WebP derivative is retained but not used by the gallery",
+      "sourceCrop": [
+        59,
+        11,
+        360,
+        313
+      ],
+      "previewPath": "/images/projects/city-traffic-lights.webp"
+    },
+    {
+      "originalFilename": "codex-clipboard-74e260ad-79df-4aee-95fc-69c9c5d2387b.png",
+      "source": "User-uploaded image attachment; seaside photo cropped from collage",
+      "sourceLocalPath": "assets/originals/uploads/city-and-seaside-collage.png",
+      "localPath": "/images/originals/seaside-sunset-branches.png",
+      "usage": "Photography gallery — Travel; seaside sunset framed by branches; separate crop from supplied collage; full-resolution source is used directly in the gallery and lightbox; the previous WebP derivative is retained but not used by the gallery",
+      "sourceCrop": [
+        373,
+        71,
+        735,
+        313
+      ],
+      "previewPath": "/images/projects/seaside-sunset-branches.webp"
+    },
+    {
+      "originalFilename": "codex-clipboard-d1ca43d0-6f34-4417-8f3c-065451b88e41.png",
+      "source": "User-uploaded image attachment",
+      "sourceLocalPath": "assets/originals/uploads/pink-blossoms-upload.png",
+      "localPath": "/images/originals/pink-blossoms-original.png",
+      "usage": "Photography gallery — Everyday; warm-toned pink blossoms against pale sky; full-resolution source is used directly in the gallery and lightbox; the previous WebP derivative is retained but not used by the gallery",
+      "previewPath": "/images/projects/pink-blossoms.webp"
+    }
+  ],
+  "videos": [
+    {
+      "originalFilename": "1000030650.mp4",
+      "sourceFileId": "1PkNEPZAB96XIjPreZplrgsM0C_Oi3pPA",
+      "sourceLocalPath": "/videos/1000030650.mp4",
+      "localPath": "/videos/1000030650.mp4",
+      "usage": "Verified playable local Bhasha Utsav film and muted looping hover preview in the Video Projects card"
+    },
+    {
+      "originalFilename": "1f11dd991f7b42fa8fa8804ae075ebab.mov",
+      "sourceFileId": "1hrdEppeDG84s6Bn0gy8sWNJ5zS6zpgab",
+      "sourceLocalPath": "assets/originals/videos/1f11dd991f7b42fa8fa8804ae075ebab.mov",
+      "localPath": null,
+      "usage": "Downloaded and retained; no reliable association to a named project"
+    },
+    {
+      "originalFilename": "c5f18a1c786640aaba9377661dc79ea2.mov",
+      "sourceFileId": "1IW7FObIUtNsexAu_9nTlzGEJBNnSchgd",
+      "sourceLocalPath": "assets/originals/videos/c5f18a1c786640aaba9377661dc79ea2.mov",
+      "localPath": null,
+      "usage": "Downloaded and retained; no reliable association to a named project"
+    },
+    {
+      "originalFilename": "c5f18a1c786640aaba9377661dc79ea2.mov",
+      "sourceFileId": "1S7CC-AD_eKlVOVxtX3e81JfXPp9HAtCq",
+      "sourceLocalPath": null,
+      "localPath": null,
+      "usage": "Duplicate of the retained same-named clip; SHA-256 match verified, duplicate not retained"
+    },
+    {
+      "originalFilename": "Kendrick Lamar - man at the garden - [edit].mp4",
+      "sourceFileId": "19rCs8i2iuJ_-ptCN1X3lmaNqsup3W-Ox",
+      "sourceLocalPath": "Downloads/Kendrick Lamar - man at the garden - [edit].mp4",
+      "localPath": "/videos/kendrick-lamar-tribute.mp4",
+      "usage": "Kendrick Lamar Tribute muted looping hover preview; matched to verified Drive filename"
+    },
+    {
+      "originalFilename": "draft 3.mp4",
+      "sourceFileId": "1G9yxo9TJAGd9LoupqXrkj0ki9yUU4A9K",
+      "sourceLocalPath": "Downloads/draft 3.mp4",
+      "localPath": "/videos/gokarna-client-edit.mp4",
+      "usage": "Client Edit — Gokarna muted looping hover preview; project association matches verified Drive source filename"
+    },
+    {
+      "originalFilename": "1000039081.mp4",
+      "sourceFileId": "1xcWOEE5pOPoNdn1kYTHvp5eVef1q1SCZ",
+      "sourceLocalPath": "Downloads/1000039081.mp4",
+      "localPath": "/videos/break-the-loop.mp4",
+      "usage": "Break the Loop muted looping hover preview; project source verified by matching Drive file ID and original filename"
+    }
+  ],
+  "resumePdfAssets": [],
+  "notes": [
+    "The two HEIC photos were converted from their original files to WebP for browser display.",
+    "The shared folder contained no subfolders.",
+    "Two downloaded clips remain in assets/originals/videos because their project association is unclear. The second same-named 675 KB clip was downloaded and SHA-256 checked, then deduplicated. The 523.8 MB Break the Loop original remains available through its existing Drive link instead of being bundled into the site.",
+    "Photography is presented in its own responsive gallery, separate from video projects.",
+    "The older Kendrick Lamar link was verified against the matching Drive video title and is retained in the film showcase.",
+    "The older Batman link resolves to a Bhasha Utsav video and is not presented as Batman.",
+    "The Gokarna Drive link resolves to a video file titled draft 3.mp4; its Gokarna association is retained from the existing portfolio record.",
+    "Typographic SVG artwork is used as a fallback poster for each film; none is represented as footage or a frame from the video.",
+    "Three additional user-uploaded photographs are preserved in assets/originals/uploads. The city and seaside photos are separate crops from the supplied collage; all three are optimized WebP files used in the Photography gallery.",
+    "The three resume-derived decorative photo copies were removed from public/images/decorative so the matching uploaded photographs appear only in the Photography gallery.",
+    "The two HEIC originals are decoded at their original pixel dimensions and stored as lossless PNG display sources for browser compatibility.",
+    "The city and seaside display crops were re-extracted losslessly from the uploaded collage; the pink blossoms image was re-cropped from its supplied PNG to remove only its outer presentation frame.",
+    "The Photography gallery and lightbox now use the local full-resolution source files directly; the former WebP derivatives are retained but are not selected by browser srcset.",
+    "The three uploaded photographs remain at the maximum detail in the supplied files; the smaller city, seaside, and blossoms sources are not enlarged beyond their source pixel widths in the gallery."
+  ],
+  "verifiedProjectLinks": [
+    {
+      "url": "https://drive.google.com/file/d/19rCs8i2iuJ_-ptCN1X3lmaNqsup3W-Ox/view",
+      "verifiedAs": "Google Drive file title matches Kendrick Lamar - man at the garden - [edit].mp4",
+      "title": "Kendrick Lamar Tribute"
+    },
+    {
+      "url": "https://drive.google.com/file/d/1G9yxo9TJAGd9LoupqXrkj0ki9yUU4A9K/view",
+      "verifiedAs": "Google Drive video file draft 3.mp4; project association retained from existing portfolio data",
+      "title": "Client Edit — Gokarna"
+    }
+  ],
+  "designedPosters": [
+    {
+      "localPath": "/images/posters/break-the-loop.svg",
+      "usage": "Typographic fallback poster, explicitly not a film still",
+      "filename": "break-the-loop.svg"
+    },
+    {
+      "localPath": "/images/posters/kendrick-lamar-tribute.svg",
+      "usage": "Typographic fallback poster, explicitly not a film still",
+      "filename": "kendrick-lamar-tribute.svg"
+    },
+    {
+      "localPath": "/images/posters/gokarna-client-edit.svg",
+      "usage": "Typographic fallback poster, explicitly not a film still",
+      "filename": "gokarna-client-edit.svg"
+    },
+    {
+      "localPath": "/images/posters/bhasha-utsav.svg",
+      "usage": "Typographic fallback poster; actual local film plays in overlay",
+      "filename": "bhasha-utsav.svg"
+    }
+  ],
+  "userUploads": {
+    "sourceFiles": 2,
+    "photographs": 3,
+    "notes": "The city and seaside photographs are separate crops from one uploaded collage. Both uploaded originals are preserved under assets/originals/uploads."
+  }
+}

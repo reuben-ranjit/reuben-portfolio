@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" role="img" aria-label="Designed typographic poster for Bhasha Utsav; not a frame from the film">
+  <defs><radialGradient id="a" cx="50%" cy="45%" r="72%"><stop stop-color="#314033"/><stop offset=".58" stop-color="#1d251f"/><stop offset="1" stop-color="#111411"/></radialGradient><pattern id="b" width="110" height="110" patternUnits="userSpaceOnUse"><circle cx="55" cy="55" r="1" fill="#f1eee8" fill-opacity=".15"/></pattern></defs>
+  <path fill="url(#a)" d="M0 0h1600v900H0z"/><path fill="url(#b)" d="M0 0h1600v900H0z"/><circle cx="800" cy="420" r="260" fill="none" stroke="#d4b877" stroke-opacity=".16"/><circle cx="800" cy="420" r="350" fill="none" stroke="#f1eee8" stroke-opacity=".08"/>
+  <text x="140" y="260" fill="#d7bd80" font-family="monospace" font-size="28" letter-spacing="8">COLLEGE CULTURAL EVENT</text>
+  <text x="130" y="555" fill="#f1eee8" font-family="Arial,sans-serif" font-size="190" font-weight="700" letter-spacing="-14">BHASHA</text>
+  <text x="140" y="670" fill="#d7bd80" font-family="monospace" font-size="32" letter-spacing="10">UTSAV · CULTURE IN MOTION</text>
+</svg>
