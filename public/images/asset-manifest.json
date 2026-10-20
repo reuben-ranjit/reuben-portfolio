@@ -187,7 +187,7 @@
       "sourceFileId": "1PkNEPZAB96XIjPreZplrgsM0C_Oi3pPA",
       "sourceLocalPath": "/videos/1000030650.mp4",
       "localPath": "/videos/1000030650.mp4",
-      "usage": "Verified playable local Bhasha Utsav film and muted looping hover preview in the Video Projects card"
+      "usage": "Archived local source; not used by the current site. Bhasha Utsav embeds YouTube video CnscIyrs3_o."
     },
     {
       "originalFilename": "1f11dd991f7b42fa8fa8804ae075ebab.mov",
@@ -215,21 +215,21 @@
       "sourceFileId": "19rCs8i2iuJ_-ptCN1X3lmaNqsup3W-Ox",
       "sourceLocalPath": "Downloads/Kendrick Lamar - man at the garden - [edit].mp4",
       "localPath": "/videos/kendrick-lamar-tribute.mp4",
-      "usage": "Kendrick Lamar Tribute muted looping hover preview; matched to verified Drive filename"
+      "usage": "Archived local source; not used by the current site. Kendrick Lamar Tribute embeds YouTube video Va4H10l6gdI."
     },
     {
       "originalFilename": "draft 3.mp4",
       "sourceFileId": "1G9yxo9TJAGd9LoupqXrkj0ki9yUU4A9K",
       "sourceLocalPath": "Downloads/draft 3.mp4",
       "localPath": "/videos/gokarna-client-edit.mp4",
-      "usage": "Client Edit — Gokarna muted looping hover preview; project association matches verified Drive source filename"
+      "usage": "Archived local source; not used by the current site. Client Edit — Gokarna embeds YouTube video 1QOdAL6wSOo."
     },
     {
       "originalFilename": "1000039081.mp4",
       "sourceFileId": "1xcWOEE5pOPoNdn1kYTHvp5eVef1q1SCZ",
       "sourceLocalPath": "Downloads/1000039081.mp4",
       "localPath": "/videos/break-the-loop.mp4",
-      "usage": "Break the Loop muted looping hover preview; project source verified by matching Drive file ID and original filename"
+      "usage": "Archived local source; not used by the current site. Break the Loop embeds YouTube video YjfZ6Ha1ogs."
     }
   ],
   "resumePdfAssets": [],
@@ -238,7 +238,7 @@
     "The shared folder contained no subfolders.",
     "Two downloaded clips remain in assets/originals/videos because their project association is unclear. The second same-named 675 KB clip was downloaded and SHA-256 checked, then deduplicated. The 523.8 MB Break the Loop original remains available through its existing Drive link instead of being bundled into the site.",
     "Photography is presented in its own responsive gallery, separate from video projects.",
-    "The older Kendrick Lamar link was verified against the matching Drive video title and is retained in the film showcase.",
+    "The verified Drive video sources are retained as archive records; current project cards and modals use the YouTube assignments in src/data/videos.ts.",
     "The older Batman link resolves to a Bhasha Utsav video and is not presented as Batman.",
     "The Gokarna Drive link resolves to a video file titled draft 3.mp4; its Gokarna association is retained from the existing portfolio record.",
     "Typographic SVG artwork is used as a fallback poster for each film; none is represented as footage or a frame from the video.",
@@ -279,7 +279,7 @@
     },
     {
       "localPath": "/images/posters/bhasha-utsav.svg",
-      "usage": "Typographic fallback poster; actual local film plays in overlay",
+      "usage": "Typographic project poster shown on the card; clicking opens the assigned YouTube video in the modal",
       "filename": "bhasha-utsav.svg"
     }
   ],
