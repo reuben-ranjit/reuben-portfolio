@@ -5,6 +5,9 @@ export const resume = {
   tagline: "Creating stories that stick.",
   intro: "I’m a professional editor who blends creativity and strategy to bring a vision to life. Over the past year, I’ve led projects with my college media team and collaborated directly with clients to produce videos, photos and reels.",
   email: "reubenranjit09@gmail.com",
+  phone: "+91 8714949425",
+  phoneHref: "+918714949425",
+  location: "Kengeri, Bangalore, Karnataka, India",
   assets: {
     hero: "/images/profile/reuben-at-work.webp",
   },

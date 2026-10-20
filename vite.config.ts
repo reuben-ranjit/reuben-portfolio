@@ -19,6 +19,8 @@ function copyPublicAssetsWithoutSourceVideos() {
       await mkdir(outDir, { recursive: true });
       await cp(publicDir, outDir, {
         recursive: true,
+        force: false,
+        errorOnExist: false,
         filter: (source) => {
           const publicPath = relative(publicDir, source);
           return publicPath === "" || publicPath.split(sep)[0] !== "videos";

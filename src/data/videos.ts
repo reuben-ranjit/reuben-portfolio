@@ -2,8 +2,7 @@ export type VideoProject = {
   title: string;
   type: string;
   description: string;
-  source: string;
-  sourceType: "youtube";
+  videoId: string;
   /** Native dimensions inspected from the available source video. */
   dimensions: { width: number; height: number };
   sourceLabel: string;
@@ -16,8 +15,7 @@ export const videos: VideoProject[] = [
     title: "Break the Loop",
     type: "Event film",
     description: "Promotional content for Magnovite, an intercollege event.",
-    source: "https://www.youtube.com/embed/CnscIyrs3_o",
-    sourceType: "youtube",
+    videoId: "CnscIyrs3_o",
     dimensions: { width: 3840, height: 2160 },
     sourceLabel: "Watch on YouTube",
     clientOrContext: "Magnovite · Intercollege event",
@@ -27,8 +25,7 @@ export const videos: VideoProject[] = [
     title: "Kendrick Lamar Tribute",
     type: "Passion project",
     description: "A self-directed passion project driven by creative exploration.",
-    source: "https://www.youtube.com/embed/YjfZ6Ha1ogs",
-    sourceType: "youtube",
+    videoId: "YjfZ6Ha1ogs",
     dimensions: { width: 1280, height: 720 },
     sourceLabel: "Watch on YouTube",
     clientOrContext: "Self-directed edit",
@@ -38,8 +35,7 @@ export const videos: VideoProject[] = [
     title: "Client Edit — Gokarna",
     type: "Client collaboration",
     description: "A client collaboration for an immersive trip to Gokarna.",
-    source: "https://www.youtube.com/embed/1QOdAL6wSOo",
-    sourceType: "youtube",
+    videoId: "1QOdAL6wSOo",
     dimensions: { width: 1920, height: 1080 },
     sourceLabel: "Watch on YouTube",
     clientOrContext: "Gokarna · Travel edit",
@@ -49,8 +45,7 @@ export const videos: VideoProject[] = [
     title: "Bhasha Utsav",
     type: "Culture film",
     description: "Promotional content for a college cultural event.",
-    source: "https://www.youtube.com/embed/Va4H10l6gdI",
-    sourceType: "youtube",
+    videoId: "Va4H10l6gdI",
     dimensions: { width: 1280, height: 720 },
     sourceLabel: "Watch on YouTube",
     clientOrContext: "College cultural event",

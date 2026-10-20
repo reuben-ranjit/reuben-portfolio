@@ -207,3 +207,10 @@
   .main-nav>a{opacity:1;transform:none}
 }
 
+
+.contact-details{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:28px}
+.contact-item{display:flex;flex-direction:column;align-items:flex-start;gap:12px;min-width:0}
+.contact-item>.eyebrow{font-size:9px;letter-spacing:.12em;color:#382016}
+.contact-location{font:14px var(--mono);border-bottom:1px solid #271a13;padding:0 0 9px}
+@media(max-width:760px){.contact-details{grid-template-columns:1fr;gap:23px}}
+@media(min-width:761px) and (max-width:980px){.contact-details{gap:16px}.contact-email,.contact-location{font-size:12px}}
